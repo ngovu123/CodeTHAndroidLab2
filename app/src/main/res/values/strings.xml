@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LAB02-NgoTruonVu</string>
+    <string name="cau_2">Câu 2</string>
+    <string name="button_text_1">Context menu 1</string>
+    <string name="button_text_2">Context menu 2</string>
+    <string name="menu_bold">Bold</string>
+    <string name="menu_italic">Italic</string>
+    <string name="menu_underline">Underline</string>
+</resources>
